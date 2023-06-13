@@ -26,7 +26,7 @@ var __webpack_exports__ = {};
  content.appendChild(homePageTitle);
 
  const homePageDescription = document.createElement("p");
- homePageDescription.textContent = "The best lobstesr in Maine!";
+ homePageDescription.textContent = "The best lobsters in Maine!";
  content.appendChild(homePageDescription);
 
  const homePageHoursTitle = document.createElement("h2");
@@ -72,7 +72,7 @@ const createHomePage = () =>{
     content.appendChild(homePageTitle);
 
     const homePageDescription = document.createElement("p");
-    homePageDescription.textContent = "The best lobstesr in Maine!";
+    homePageDescription.textContent = "The best lobsters in Maine!";
     content.appendChild(homePageDescription);
 
     const homePageHoursTitle = document.createElement("h2");
