@@ -5,5 +5,5 @@ This was dynamically generated with Javascript to display different restaurant p
 
 The background image used is from Ratapan Anantawat on unsplash.com
 
+![Restaurant Picture GitHub](https://github.com/DenisKelolli/TOP-Restaurant-Page/assets/105075834/7187124f-0a30-4b8b-ac6f-0c8f2764ae19)
 
-![Restaurant Page GitHub](https://github.com/DenisKelolli/TOP-Restaurant-Page/assets/105075834/98429c99-cfd9-4feb-90d6-7dcb8845793d)
